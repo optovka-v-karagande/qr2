@@ -70,8 +70,10 @@ body {
   gap: 10px;
   max-width: 520px;
   margin: 0 auto;
-  padding: 24px 16px;
-  background: #ffffff;
+  padding: 16px 16px;
+  background: #e5edf7;
+  border-radius: 20px;
+  margin-bottom: 16px;
 }
 
 .card-icon {
