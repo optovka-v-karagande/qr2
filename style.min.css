@@ -258,7 +258,7 @@ main {
 #cta {
   display: flex;
   align-items: center;
-  border-radius: 10px;
+  border-radius: 20px;
   margin-top: 2rem;
   padding: 1rem 1.5rem;
   cursor: pointer;
